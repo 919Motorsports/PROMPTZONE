@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Vault",
+  "description": "An application to construct detailed AI prompts through a guided questionnaire. Generated prompts are saved and categorized in a personal vault for easy access and reuse.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
